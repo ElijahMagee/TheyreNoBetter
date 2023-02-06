@@ -1,54 +1,34 @@
 
 div.mainColor {
    background-color: #bb5555;
-	
+	align-content: center;
 }
 
-form {
- 
 
 
-}
+.searchHolder{
+ 	font: 16px;
 
-input {
-
-
-
-  font: 16px;
-
-  height: 50%;
-  width: 35%;
-  
-  border-radius: 15px;
-
-  
-  padding: 6px 10px;
-}
-
-.searchholder{
-	color yellowgreen;
-	width: 50%;
+  	width: 35%;
 	background: yellow;
+	border-radius: 15px;
 }
 
-input.mySearch {
-	width: 100%;
+input{
+	width: 90%;
 	outline: none;
 	background: lightblue;
 	color white;
-	
-	
-	  background-color: #4654e1;
-
-	  width: 300px;
-  height: 44px;
-	  display: flex;
-  flex-direction: row;
-  align-items: center;
-	
-	  all: unset;
-	 
-  
-  
+	border-bottom-left-radius: 15;
+	border-top-left-radius: 15;
+		
 }
+ button {
+  
+  width: 5%;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
 
+  cursor: pointer;
+}
