@@ -1,4 +1,4 @@
-
+/*
 div.mainColor {
    background-color: #bb5555;
 	align-content: center;
@@ -31,4 +31,11 @@ input{
   font-size: 17px;
 	border
   cursor: pointer;
+}
+
+*/
+main {
+	
+	margin-top: 100px;
+
 }
